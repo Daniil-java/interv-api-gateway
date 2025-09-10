@@ -1,4 +1,4 @@
-package com.kuklin.api_gateway;
+package com.kuklin.apigateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.kuklin.api_gateway.configurations;
+package com.kuklin.apigateway.configurations;
 
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.cloud.client.discovery.ReactiveDiscoveryClient;

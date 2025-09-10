@@ -1,4 +1,4 @@
-package com.kuklin.api_gateway.configurations;
+package com.kuklin.apigateway.configurations;
 
 import org.springframework.cloud.gateway.route.RouteLocator;
 import org.springframework.cloud.gateway.route.builder.RouteLocatorBuilder;
